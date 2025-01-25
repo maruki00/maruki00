@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdellah Oulahyane</h1>
 <h3 align="center">Hi, I'm Software Engineer and Security Researcher based in Morocco. With expertise across a range of programming languages, including Go, PHP, Java, .NET, C, ASM and JS, I work on crafting innovative solutions for challenging problems.
 I'm passionate about building scalable and secure software systems while continuously exploring emerging technologies to stay ahead in the field. In my spare time, I enjoy working on side projects that push the boundaries of what's possible.
-I'm always open to collaborating on exciting ideas and opportunities. Feel free to reach out via LinkedIn — I'd love to hear from you!.</h3>
+I'm always open to collaborating on exciting ideas and opportunities. Feel free to reach out via <a href="https://www.linkedin.com/in/abdellah-oulahyane-b3922b228/">LinkedIn</a> — I'd love to hear from you!.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maruki00&label=Profile%20views&color=0e75b6&style=flat" alt="maruki00" /> </p>
 
 <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=maruki00" alt="maruki00" /> </p>
@@ -20,5 +20,3 @@ I'm always open to collaborating on exciting ideas and opportunities. Feel free 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maruki00&show_icons=true&locale=en" alt="maruki00" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maruki00&layout=compact&hide_border=true&&langs_count=10&show_icons=true&hide=javascript,css,html,blade,scss,tex,cmake,tsql" />
 </p>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maruki00)](https://github.com/anuraghazra/github-readme-stats)
-[![Test](https://github-readme-stats.vercel.app/api/wakatime?username=maruki00&layout=compact)]
