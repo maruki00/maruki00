@@ -20,3 +20,5 @@ I'm always open to collaborating on exciting ideas and opportunities. Feel free 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maruki00&show_icons=true&locale=en" alt="maruki00" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maruki00&layout=compact&hide_border=true&&langs_count=10&show_icons=true&hide=javascript,css,html,blade,scss,tex,cmake,tsql" />
 </p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maruki00)](https://github.com/anuraghazra/github-readme-stats)
+[![Test](https://github-readme-stats.vercel.app/api/wakatime?username=maruki00&layout=compact)]
