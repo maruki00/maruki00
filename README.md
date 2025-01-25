@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdellah Oulahyane</h1>
-<h3 align="center">I am a Software Developer having 4+ years of experience working in various domains like full stack, mobile, and backend.</h3>
-
+<h3 align="center">Hi, I'm Software Engineer and Security Researcher based in Morocco. With expertise across a range of programming languages, including Go, PHP, Java, .NET, C, ASM and JS, I work on crafting innovative solutions for challenging problems.
+I'm passionate about building scalable and secure software systems while continuously exploring emerging technologies to stay ahead in the field. In my spare time, I enjoy working on side projects that push the boundaries of what's possible.
+I'm always open to collaborating on exciting ideas and opportunities. Feel free to reach out via LinkedIn — I'd love to hear from you!.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maruki00&label=Profile%20views&color=0e75b6&style=flat" alt="maruki00" /> </p>
 
 <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=maruki00" alt="maruki00" /> </p>
