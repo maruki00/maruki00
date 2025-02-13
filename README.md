@@ -18,5 +18,5 @@ I'm always open to collaborating on exciting ideas and opportunities. Feel free 
 
 &nbsp;![](https://komarev.com/ghpvc/?username=maruki00&color=brightgreen)
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maruki00&show_icons=true&locale=en" alt="maruki00" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maruki00&layout=compact&hide_border=true&&langs_count=10&show_icons=true&hide=javascript,css,html,c,blade,scss,tex,cmake,tsql" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maruki00&layout=compact&hide_border=true&&langs_count=10&show_icons=true&hide=javascript,css,html,c,php,blade,scss,tex,cmake,tsql" />
 </p>
