@@ -17,9 +17,10 @@ I'm always open to collaborating on exciting ideas and opportunities. Feel free 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maruki00&show_icons=true&locale=en" alt="maruki00" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maruki00&layout=compact&hide_border=true&&langs_count=10&show_icons=true&hide=javascript,css,html,blade,scss,tex,cmake,tsql" />
   -->
+<p>
   <div align=center>
   <img width=750 src="https://github-readme-stats.vercel.app/api?username=maruki00&theme=kacho_ga&show_icons=true&theme=2077" alt="readme stats" />
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=maruki00&theme=2077" width="750" />
+  </div>
 
-<br/><br/>
 </p>
