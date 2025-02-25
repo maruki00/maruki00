@@ -4,7 +4,8 @@ I'm passionate about building scalable and secure software systems while continu
 I'm always open to collaborating on exciting ideas and opportunities. Feel free to reach me out via <a href="https://www.linkedin.com/in/abdellah-oulahyane-b3922b228/">LinkedIn</a> — I'd love to hear from you!.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maruki00&label=Profile%20views&color=0e75b6&style=flat" alt="maruki00" /> </p>
 
-<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=maruki00" alt="maruki00" /> </p>
+
+<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=maruki00&theme=darkhub&row=1&column=9" alt="maruki00" /> </p>
 
 <p align="left">
 </p>
