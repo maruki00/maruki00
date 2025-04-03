@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdellah Oulahyane</h1>
-<h3 align="center">Hi, I'm Software Engineer and Security Researcher based in Morocco. With expertise across a range of programming languages, including Go, Python, PHP, C, ASM and JS, I work on crafting innovative solutions for challenging problems.
+<h3 align="center">Hi, I'm Software Engineer and Security Researcher based in Morocco. With expertise across a range of programming languages, including Go, Python, PHP, C, ASM and Typescript, I work on crafting innovative solutions for challenging problems.
 I'm passionate about building scalable and secure software systems while continuously exploring emerging technologies to stay ahead in the field. In my spare time, I enjoy working on side projects that push the boundaries of what's possible.
 I'm always open to collaborating on exciting ideas and opportunities. Feel free to reach me out via <a href="https://www.linkedin.com/in/abdellah-oulahyane-b3922b228/">LinkedIn</a> — I'd love to hear from you!.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maruki00&label=Profile%20views&color=0e75b6&style=flat" alt="maruki00" /> </p>
@@ -15,7 +15,7 @@ I'm always open to collaborating on exciting ideas and opportunities. Feel free 
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maruki00&show_icons=true&theme=tokyonight&show_icons=true&locale=en" alt="maruki00" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maruki00&layout=compact&hide_border=true&&langs_count=10&show_icons=true&hide=javascript,css,html,blade,scss,tex,cmake,tsql&theme=tokyonight" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maruki00&layout=compact&hide_border=true&&langs_count=10&show_icons=true&hide=css,html,blade,scss,tex,cmake,tsql&theme=tokyonight" />
 
   <!-- <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=maruki00&theme=2077" width="750" />-->
 
