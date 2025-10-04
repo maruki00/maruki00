@@ -108,13 +108,18 @@ projects.</h3>-->
       width="40" height="40" />
   </a>  
 </p>
-<p>&nbsp;<img align="center"
+<p>
+ 
+  <img align="center"
+  src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=maruki00&theme=tokyonight"
+  alt="maruki00" />
+<img align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=maruki00&layout=compact&hide_border=true&&langs_count=10&show_icons=true&hide=javascript,css,html,blade,scss,tex,cmake,tsql&theme=tokyonight" 
+    alt="maruki00" />
+</p>
+<p>
+  <img align="center"
     src="https://github-readme-stats.vercel.app/api?username=maruki00&show_icons=true&theme=tokyonight&show_icons=true&locale=en"
-alt="maruki00" />
-<img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=maruki00&layout=compact&hide_border=true&&langs_count=10&show_icons=true&hide=javascript,css,html,blade,scss,tex,cmake,tsql&theme=tokyonight" />
+    alt="maruki00" />
 
-<img align="center"
-  src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=maruki00&theme=2077"
-  width="750" />
 </p>
