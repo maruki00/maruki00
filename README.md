@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Abdellah Oulahyane</h1>
-<!--<h3 align="center">Hi, I'm a Backend
-Engineer and Security Researcher based in Morocco. I'm a passionate Go developer who enjoys building
+<h3 align="center">I'm a Backend
+Engineer and Cyber Security enthusian based in Morocco. I'm a passionate Go developer who enjoys building
 efficient, scalable systems, writing clean, maintainable code, and contributing to open-source
-projects.</h3>-->
+projects.</h3>
 <p align="left">
   <img
     src="https://komarev.com/ghpvc/?username=maruki00&label=Profile%20views&color=0e75b6&style=flat"
