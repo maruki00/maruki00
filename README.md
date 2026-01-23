@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdellah Oulahyane</h1>
 <h3 align="center">I'm a Backend
-Engineer and Cyber Security enthusian based in Morocco. I'm a passionate Go developer who enjoys building
+Engineer and Cyber Security enthusian from Morocco. I'm a passionate Go developer who enjoys building
 efficient, scalable systems, writing clean, maintainable code, and contributing to open-source
 projects.</h3>
 <p align="left">
