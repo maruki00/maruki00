@@ -10,11 +10,7 @@ projects.</h3>
 </p>
 
 
-<p align="left">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=maruki00&theme=darkhub&row=1&column=9"
-    alt="maruki00" />
-</p>
+
 
 <p align="left">
 </p>
